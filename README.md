@@ -54,10 +54,3 @@ The notebook does not cover the weight of evidence (WoE) analysis. Users interes
 - Dataset License
 The dataset used in this project, "Global Country Information Dataset 2023," is maintained by Kaggle and is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). For more information about this license, please visit Creative Commons License CC BY 4.0.
 
-
-
-
-
-
-
-License: MIT + file LICENSE
