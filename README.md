@@ -10,20 +10,20 @@ This repository contains a Jupyter notebook configured to run R within Google Co
 
 - Change Runtime to R: To ensure the notebook runs with an R kernel:
 
-** In Colab, go to the Runtime menu.
-** Select Change runtime type.
-** Choose R from the dropdown under Runtime type.
-** Click Save.
+1. In Colab, go to the Runtime menu.
+2. Select Change runtime type.
+3.  Choose R from the dropdown under Runtime type.
+4. Click Save.
 
-Verify the R Environment: The first line of code print(R.version.string) confirms the R setup. Run this cell to display the version of R in use.
+- Verify the R Environment: The first line of code print(R.version.string) confirms the R setup. Run this cell to display the version of R in use.
 
 ```print(R.version.string)```
 
-Using Tidyverse: Directly load the pre-installed tidyverse package in the notebook:
+- Using Tidyverse: Directly load the pre-installed tidyverse package in the notebook:
 
 ``` library(tidyverse)``` 
 
-Install SmartEDA: Follow the notebook instructions to install and load the SmartEDA package:
+- Install SmartEDA: Follow the notebook instructions to install and load the SmartEDA package:
 
 ``` install.packages("SmartEDA")```
 ``` library(SmartEDA)```
