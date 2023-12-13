@@ -1,7 +1,7 @@
-# SmartEDA in Google Colab with R Kernel
+# Use Google Colab with R Kernel to perform Exploratory Data Analysis and Principal Components Analysis
 
 ## Overview
-This repository contains a Jupyter notebook configured to run R within Google Colab, a platform typically associated with Python. The notebook demonstrates how to use the SmartEDA package for exploratory data analysis in R, in conjunction with the 'tidyverse' suite of packages. This setup allows users to utilize Google Colab's resources without needing a local R installation.
+This repository contains  Jupyter notebooks configured to run R within Google Colab, a platform typically associated with Python. The notebooks demonstrate how to use the SmartEDA and Data Explorer packages for data analysis in R, in conjunction with the 'tidyverse' suite of packages. This setup allows users to utilize Google Colab's resources without needing a local R installation.
 
 ## Accessing and Running the Notebook
 - Navigate to the Notebook: Locate the Jupyter Notebook file (.ipynb) in this repository.
@@ -30,7 +30,7 @@ This repository contains a Jupyter notebook configured to run R within Google Co
 
 # Automated Exploratory Data Analysis with SmartEDA
 
-**SmartEDA** is an R package designed to simplify the exploratory analysis of data, ideal for quickly understanding the structure and relationships in datasets. It efficiently handles both numeric and categorical predictors and remains useful even in the absence of categorical variables.
+**SmartEDA** is an R package designed to simplify the exploratory data analysis, ideal for quickly understanding the structure and relationships in datasets. It efficiently handles both numeric and categorical predictors and remains useful even in the absence of categorical variables.
 
 **SmartEDA**  automates various aspects of data exploration, including descriptive statistics, information value analysis, and the creation of custom tables and graphical representations. This makes it an invaluable tool for data scientists and analysts looking to save time and gain immediate insights into their data.
 
